@@ -362,13 +362,12 @@ machine-learning/AI_Labor_Vulnerability_Model.ipynb
 
 ## Project Lead
 
-**Mahmoud Ahmed**
+**Khaled Elserry**
 
-- GitHub: [Nagato1pain2](https://github.com/Nagato1pain2)
-- LinkedIn: [Mahmoud Ahmed — Data](https://www.linkedin.com/in/mahmoud-ahmed-data/)
-- Email: [mahmoudahmed1147@gmail.com](mailto:mahmoudahmed1147@gmail.com)
-- Phone: [01010700943](tel:+201010700943)
-
+- GitHub: [KhaledElserry](https://github.com/KhaledElserry)
+- LinkedIn: [Khaled Elserry](https://www.linkedin.com/in/khaledelserry/)
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- Phone: [+201091827693](tel:+201091827693)
 ---
 
 <div align="center">
