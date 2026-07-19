@@ -366,7 +366,7 @@ machine-learning/AI_Labor_Vulnerability_Model.ipynb
 
 - GitHub: [KhaledElserry](https://github.com/KhaledElserry)
 - LinkedIn: [Khaled Elserry](https://www.linkedin.com/in/khaledelserry/)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [khaledomarabdelmoneam@gmail.com](mailto:khaledomarabdelmoneam@gmail.com)
 - Phone: [+201091827693](tel:+201091827693)
 ---
 
